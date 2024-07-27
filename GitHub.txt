@@ -1,0 +1,13 @@
+# Git and GitHub
+GitHub:
+      	GitHub is online storage of repository / directories. User can store their source codes and through git version control system and .git folder resides in repositories.
+      1- git clone https:\\www.reponame.com\TestRepository.
+              → If user wants to get the repository from GitHub to local directory / PC use the above command.     
+      2- git push origin main
+              → Push local committed files into GitHub. So the changes will reflected into GitHub.
+      3- git push -u origin main 
+              →  If user work on single project for future so use -u flag to avoid to write origin main again and again. 
+               
+       
+                     
+

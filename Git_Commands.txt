@@ -1,0 +1,44 @@
+## Git Commands
+2024/07/26 - 12:46  
+Git Commands: 
+   1) git status
+            → Gives the information of the current state of the git repository/directory. 
+   2) git init
+            → Initializes an empty git repository
+   3) git checkout -b <branch name>
+            → Switching to new branch, if you want to switch to an existing branch then use git checkout branch without -b.
+   4) git add <filename>
+            → Used to staged the untracked file.
+   5) git branch
+            → Gives the info / list of all the branches in git repo.
+   6) git commit -m “<Write your message here>”
+           → Used to track the staged files after being added.
+   7) git restore --staged <filename>
+           → To untrack / unstaged the file from staged step. 
+   8) git revert
+           → Using hash key from log files, User can revert the deleted files.
+   9) git rm --cached <filename>
+           → To remove the file. 
+   10) git log 
+           → To get the logs, who made changes or modified in which branch. User can get the all information  here.
+   11) git config --global <Username> 
+           → To add the username for first time in the terminal to access the logs by their name.
+   12) git config --global <Email>
+           → To add the author email.
+   13) git
+           → 
+   14) git
+           →
+   15) git
+           →
+   16) git
+           →
+   17) git
+           →
+   18) git
+           →
+   19) git
+          →
+   20) git
+          →
+
